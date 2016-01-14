@@ -1,3 +1,12 @@
+/*
+ * .-github--.   .-----website-----.
+ * |         |   |                 |
+ * F A D A V I @ F A D A V I . N E T
+ * |           |           |       |
+ * |           '-telegram--'       |
+ * '---email-----------------------'
+ */
+
 package cashflow;
 
 import java.awt.*;
